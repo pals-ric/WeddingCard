@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">TheWeddingCard</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="text_2">Mandap &amp; Haldi
+
+Pics
+
+9th Dec, 2020
+
+Mayna &amp; Mehndi
+
+10th Dec, 2020
+
+Wedding
+
+11th Dec, 2020
+
+Vidai
+
+12th Dec, 2020
+
+
+
+Special Invitation from:
+
+Tanu &amp; Gungun Rawat
+
+Dolly &amp; Rolly Tiwari
+
+Somu &amp; Sakshi Mishra
+
+(Gajju and Satish mama’s kids)</string>
+    <string name="text_1">Mr. Devesh (Bhabhi: Mrs. Rolee) &amp; Mr. Sarvesh Dutt Richhariya
+
+SOLICIT YOUR GRACIOUS PRESENCE &amp; BLESSINGS ON THE AUSPICIOUS OCCASION OF THE
+
+MARRIAGE CEREMONY
+
+OF THEIR BELOVED SISTER
+
+PRAGYA WITH SUSHIL
+
+D/o. MRS. KUSUM AND LATE MR. BHANU PRATAP RICHHARIYA
+
+ON FRIDAY 11TH DEC, 2020
+
+AT
+
+NAGAR BHAWAN, BARUASAGAR (21 km from JHANSI) (Google Map Link)
+
+MUHURAT
+
+11 PM
+
+DINNER:
+
+6 PM onwards
+
+WITH BEST COMPLIMENTS FROM:
+
+Mrs. Manisha &amp; Mr. Mayank Chaturvedi
+
+Kanishka Chaturvedi
+
+Pallavi Richhariya
+
+Divyanshi Richhariya
+
+Varnit Richhariya</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mantra">Vakratunda Mahakaya Surya Koti Samaprabha |
+Nirvighnam Kuru Me Dev Sarv-Kaaryeshu Sarvadaa ||</string>
+    <string name="wedding">Invitation</string>
+    <string name="boy">Sushil</string>
+    <string name="girl">Pragya</string>
+    <string name="weds">Weds</string>
+    <string name="lets_begin">Richhariya Family Welcomes You!\nLet us all be the part of\nWEDDING CELEBERATION!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
