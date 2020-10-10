@@ -14,16 +14,16 @@ class SecondScreen : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_second)
-        binding.viewpager.adapter = MyAdapter(supportFragmentManager, lifecycle)
+        binding.viewpager.adapter = MyAdapter(this,supportFragmentManager, lifecycle)
 
 //            window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
 //                WindowManager.LayoutParams.FLAG_FULLSCREEN)
 
         TabLayoutMediator(binding.tab, binding.viewpager, TabLayoutMediator.TabConfigurationStrategy{tab, position ->
             when (position) {
-                0 -> tab.text = "Mandap"
-                1 -> tab.text = "Mandap"
-                2 -> tab.text = "Wedding Functions"
+                0 -> tab.text = "Family"
+                1 -> tab.text = "Functions"
+                2 -> tab.text = "Glimpses"
             }
         }).attach()
 

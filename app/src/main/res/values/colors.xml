@@ -62,6 +62,7 @@
     <color name="grey_1000_b">#000000</color> <!-- Use with white text -->
     <color name="grey_1000_w">#ceccd5</color>
     <color name="red">#FA5C66</color>
+    <color name="red1">#ff0000</color>
     <!-- Use with black text -->
     <color name="yellow">#FFEB3B</color> <!-- Use with black text -->
     <color name="default_background_color">#8800FF</color>
@@ -138,8 +139,11 @@
     <color name="grade_previous">#FA5C66</color>
     <color name="grade_current">#fcd549</color>
     <color name="card_bg1">#BC1758</color>
+    <color name="bg1">#BC1758</color>
     <color name="card_bg2">#7C0B4E</color>
-    <color name="card_text">#0189DE</color>
+    <color name="a">#a01d21</color>
+    <color name="card_text">#04578C</color>
     <color name="card_text1">#005AA7</color>
+    <color name="bg5">#208CD6</color>
 
 </resources>

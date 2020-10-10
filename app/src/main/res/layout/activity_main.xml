@@ -10,12 +10,11 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/card_bg"
+        android:src="@drawable/bg2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-
         >
 
     </ImageView>
@@ -91,8 +90,8 @@
                 android:id="@+id/imagegirl"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/bridepic"
                 android:layout_gravity="center"
+                android:src="@drawable/img_bride"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
                 app:layout_constraintTop_toTopOf="parent">
@@ -162,7 +161,7 @@
                 android:id="@+id/imageboy"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/groom_pic"
+                android:src="@drawable/img_groom"
                 android:layout_gravity="center"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
@@ -226,16 +225,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:weightSum="7.5"
+        android:weightSum="5"
+        android:layout_margin="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        >
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/welcome"
             android:layout_width="0dp"
-            android:layout_height="80dp"
-            android:layout_weight="1.5"
-            android:padding="2dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
             android:layout_gravity="center_vertical|end"
             android:src="@drawable/welcome"
             app:layout_constraintLeft_toLeftOf="parent"
@@ -248,13 +249,13 @@
             android:id="@+id/button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="5"
+            android:layout_weight="3"
             android:fontFamily="@font/gilroy_bold_italic"
             android:gravity="center"
-            android:padding="10dp"
+            android:layout_gravity="center"
             android:text="@string/lets_begin"
             android:textColor="@color/yellow"
-            android:textSize="18sp"
+            android:textSize="14sp"
             android:visibility="visible"
            />
 
@@ -262,7 +263,7 @@
             android:id="@+id/fab"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_gravity="center|end"
+            android:layout_gravity="center"
             android:layout_weight="1"
             android:foregroundGravity="center"
             android:src="@drawable/ic_baseline_play_arrow_24"
