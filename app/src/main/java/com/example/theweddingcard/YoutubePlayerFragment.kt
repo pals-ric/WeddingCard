@@ -129,7 +129,7 @@ class YoutubePlayerFragment : Fragment() {
                 this@YoutubePlayerFragment.youTubePlayer = youTubePlayer
                 youTubePlayer.loadOrCueVideo(lifecycle, videoUrl, continueWatchingDuration)
                 currentPlayState = "ready"
-                isPreparing = true
+                isPreparing = false
             }
 
             override fun onCurrentSecond(youTubePlayer: YouTubePlayer, second: Float) {
