@@ -12,33 +12,34 @@
     <string name="mehdi">Mayna &amp; Sangeet\n10th Dec, 2020</string>
     <string name="wedding_init">Wedding\n11th Dec, 2020</string>
     <string name="vidai">Vidai\n12th Dec, 2020</string>
-    <string name="kids">Somu &amp; Sakshi Mishra\nTanu &amp; Gungun Rawat\nDolly &amp; Rolly Tiwari\nShanu Mishra \nSatish Mishra</string>
+    <string name="kids">Mr. Somu &amp; Ms. Sakshi Mishra\nMs. Tanu &amp; Ms. Gungun Rawat\nMs. Dolly &amp; Ms. Rolly Tiwari\nMr. Shanu Mishra \nMr. Shanidra Mishra</string>
     <string name="special_thanks_from">Special Invitation From
 </string>
 
-    <string name="brother">Mr. Devesh Dutt &amp; Mrs. Rolee Richhariya &amp; \n Mr. Sarvesh Dutt Richhariya
+    <string name="brother">Mr. Devesh Dutt &amp; Mrs. Rauli Richhariya\n Mr. Sarvesh Dutt Richhariya
 
 </string>
     <string name="line">SOLICIT YOUR GRACIOUS PRESENCE &amp; BLESSINGS ON THE AUSPICIOUS OCCASION OF THE MARRIAGE CEREMONY OF OUR BELOVED SISTER
 
 </string>
-    <string name="wed">PRAGYA with SUSHIL
+    <string name="wed">Ms. PRAGYA with Mr. SUSHIL
 </string>
 
-    <string name="parents">D/o. MRS. KUSUM AND LATE MR. BHANU PRATAP RICHHARIYA \n\nAT
+    <string name="parents">D/o. Mrs. KUSUM DEVI &amp; Late Mr. BHANU PRATAP RICHHARIYA \n\nAT
 
     </string>
-    <string name="fam_compliments">Mrs. Manisha &amp; Mr. Mayank Chaturvedi\nKanishka Chaturvedi\nPallavi Richhariya\nDivyanshi Richhariya\nVarnit Richhariya</string>
+    <string name="fam_compliments">Mrs. Manisha &amp; Mr. Mayank Chaturvedi\nMs. Kanishka Chaturvedi\nMs. Pallavi Richhariya\nMs. Divyanshi Richhariya\nMr. Varnit Richhariya</string>
     <string name="best_compliments">WITH BEST COMPLIMENTS FROM:</string>
     <string name="dinner">NAGAR BHAWAN, BARUASAGAR (21 km from JHANSI) (Google Map Link)\n\nON\n FRIDAY 11TH DEC, 2020\n6:00 PM onwards</string>
 
     <string name="mantra">Vakratunda Mahakaya Surya Koti Samaprabha |
 Nirvighnam Kuru Me Dev Sarv-Kaaryeshu Sarvadaa ||</string>
     <string name="wedding">Invitation</string>
-    <string name="boy">Sushil</string>
-    <string name="girl">Pragya</string>
+    <string name="boy">Mr. Sushil</string>
+    <string name="girl">Ms. Pragya</string>
     <string name="weds">Weds</string>
-    <string name="lets_begin">Richhariya Family Welcomes You!\nLet us all be the part of\nWEDDING CELEBERATION!!\n ON\n11th Dec, 2020</string>
+    <string name="lets_begin">Richhariya Family Welcomes You !\nLet us all be the part of\nWedding Celebration !!\n ON\n11th Dec, 2020\n AT\n NAGAR BHAWAN, BARUASAGAR (UP)</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go">Go</string>
 </resources>

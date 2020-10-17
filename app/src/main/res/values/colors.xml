@@ -43,7 +43,7 @@
 <!--    <color name="colorPrimaryDark">#BC161C</color>-->
     <color name="sub_physics">#209AF7</color>
 
-    <color name="colorPrimaryDark">#FEB301</color>
+    <color name="colorPrimaryDark">#0C0335</color>
     <color name="sub_quantitative_ability">#FF5E5E</color>
     <color name="sub_reasoning">#D9208D</color>
     <color name="sub_general_awareness">#FE5F9B</color>
@@ -145,5 +145,23 @@
     <color name="card_text">#04578C</color>
     <color name="card_text1">#005AA7</color>
     <color name="bg5">#208CD6</color>
+    <color name="new_bg">#FE9EA1</color>
+    <color name="new_bg_less">#FFDCE3</color>
+    <color name="text_new">#6E0409</color>
+    <color name="text_new_header">#62A6CF</color>
+    <color name="text_new_diff">#A79313</color>
+    <color name="text_new_diff1">#273f70</color>
+    <color name="text_new_diff2">#0ABAD1</color>
+    <color name="text_new_diff3">#224723</color>
+    <color name="text_new_diff4">#22F1364E</color>
+    <color name="bg_final">#C3A008</color>
+    <color name="bg_final1">#00727E</color>
+    <color name="bg_final2">#FF4870C3</color>
+    <color name="bg_final3">#F5D1BB</color>
+    <color name="bg">#208CD6</color>
+    <color name="bg10">#4E90CA</color>
+    <color name="dark_green">#006400</color>
+
+
 
 </resources>
